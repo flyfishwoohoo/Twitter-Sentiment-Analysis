@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+textblob
+emoji
+spacy
+matplotlib
+seaborn
+wordcloud
